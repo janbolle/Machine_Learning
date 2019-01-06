@@ -11,3 +11,9 @@
 **Today's Progress** : Completed coding and understanding policy-iteration ;-)
 
 **Thoughts** : not easy to see, that policy-iteration is more efficient than value-iteration
+
+## Day 2 : January 5, 2019
+ 
+**Today's Progress** : Completed coding and understanding MC Q-Learning
+
+**Thoughts** : still needs some debugging
