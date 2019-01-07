@@ -17,3 +17,10 @@
 **Today's Progress** : Completed coding and understanding MC Q-Learning
 
 **Thoughts** : still needs some debugging
+
+## Day 3 : January 6, 2019
+ 
+**Today's Progress** : Advanced MC Q-Learning (running avarage) + debugging done
+
+**Thoughts** : thought about running average by myself ;-)
+
