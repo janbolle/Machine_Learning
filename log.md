@@ -24,3 +24,8 @@
 
 **Thoughts** : thought about running average by myself ;-)
 
+## Day 4 : January 7, 2019
+ 
+**Today's Progress** : read some articles..
+
+**Thoughts** : Teacher force maybe interesting for RNN learning SC2...
