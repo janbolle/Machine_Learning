@@ -29,3 +29,9 @@
 **Today's Progress** : read some articles..
 
 **Thoughts** : Teacher force maybe interesting for RNN learning SC2...
+
+## Day 5 : January 7, 2019
+ 
+**Today's Progress** : MC reading + watching youtube video
+
+**Thoughts** : importance sampling is not to intuitive..
