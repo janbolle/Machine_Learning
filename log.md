@@ -35,3 +35,10 @@
 **Today's Progress** : MC reading + watching youtube video
 
 **Thoughts** : importance sampling is not to intuitive..
+
+
+## Day 5 : January 8, 2019
+ 
+**Today's Progress** : Had a look on some importance sampling python codes..
+
+**Thoughts** : importance sampling probably easy ;-)
