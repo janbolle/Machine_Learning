@@ -30,7 +30,7 @@
 
 **Thoughts** : Teacher force maybe interesting for RNN learning SC2...
 
-## Day 5 : January 8, 2019
+## Day 5 : January 8, 2019 ggg
  
 **Today's Progress** : MC reading + watching youtube video
 
@@ -41,4 +41,4 @@
  
 **Today's Progress** : Had a look on some importance sampling python codes..
 
-**Thoughts** : importance samplin
+**Thoughts** : importance sampling probably easy ;-)
