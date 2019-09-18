@@ -41,4 +41,4 @@
  
 **Today's Progress** : Had a look on some importance sampling python codes..
 
-**Thoughts** : importance sampling probably easy ;-)
+**Thoughts** : importance samplin
